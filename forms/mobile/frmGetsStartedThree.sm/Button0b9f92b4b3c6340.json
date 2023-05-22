@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "300px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s70da7f63aee49cd9467add2eef2109e",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "640dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300px"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "80%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sf44314c8d8f4b59922dfc7c3976a5c1",
+    "id": "Button0b9f92b4b3c6340",
+    "ide_onClick": "AS_Button_d10bdb8ed0dc41a2a83020e57547ea8b",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "g880cea5ca5b4725861b1678423f4eab",
+    "name": "kony.ui.Button",
+    "parent": "flxMainCnOainet",
+    "pf": "frmGetsStartedThree",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 100
+}

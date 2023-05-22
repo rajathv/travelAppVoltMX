@@ -1,0 +1,170 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s6259fc309d3469fa40e87a0bc8e9972",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "flxMain": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h1578e688dca4115bbf201a235c56854",
+                "srcKUID": "uf5a84d228614aa9b265914cbf326b79",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgBluepin": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b186b0cd9cd44c14abace49a6035ee21",
+                "srcKUID": "u91be48aa2884c36b78bcdac2cb45265",
+                "wType": "Image"
+            }
+        },
+        "imgMain": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d38896e0ad7a4ea196f73efd56b72c60",
+                "srcKUID": "u3e28b88118c4cff84aeb0421b7e7ee8",
+                "wType": "Image"
+            }
+        },
+        "imgStar1": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f02eeb4d6645404990115640e03244de",
+                "srcKUID": "u3e9cc9f4d1a467581ac6ca9f3abb031",
+                "wType": "Image"
+            }
+        },
+        "imgStar2": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g4ddd9a8606f4d6590090ad600571b54",
+                "srcKUID": "ue5107e3832f4700b2a568d1bcbc3865",
+                "wType": "Image"
+            }
+        },
+        "imgStar3": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "eb8e9d21b165497d963de8adb8f3f28a",
+                "srcKUID": "u3dfa2ad795f4c35a05f2e6f8a8128b1",
+                "wType": "Image"
+            }
+        },
+        "imgStar4": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "daac8ead25e74868a33ea83f5cc7354b",
+                "srcKUID": "u650835ed31540cd97fb947451ebd2b2",
+                "wType": "Image"
+            }
+        },
+        "imgStar5": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b1a25914d80b426e92a1a8d6d7a31ef2",
+                "srcKUID": "u13f859cec4c4b538552055fe8a69c51",
+                "wType": "Image"
+            }
+        },
+        "lblDescription": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b44140b27775487599081c5b061e7250",
+                "srcKUID": "u8a828b7286342ffb7c7ff8029dcb39d",
+                "wType": "Label"
+            }
+        },
+        "lblDistance": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a50cb850845a4332b21de0b592de2514",
+                "srcKUID": "ua0e2579398047a0b7ff5d6d2b7c82e3",
+                "wType": "Label"
+            }
+        },
+        "lblHeading": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i861bc1f0a114afba0fdec4a5af33067",
+                "srcKUID": "u46272aa8ec547768e988146520f3210",
+                "wType": "Label"
+            }
+        },
+        "lblReviews": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "if0cad5fe2ea497b827508643c2cd457",
+                "srcKUID": "uc185090244848b8baa4bb20219f8612",
+                "wType": "Label"
+            }
+        },
+        "map4": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "c1e95f1f06fc499a9d596bb94f0babe5",
+                "srcKUID": "uc356940e3a14100882baf38cc889234",
+                "wType": "FlexContainer"
+            }
+        },
+        "mapView": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j689e4ccb4c64b40933092aa7c3e1668",
+                "srcKUID": "u670999a1bb74e4dbbbd003c94075d55",
+                "wType": "Map"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "map4",
+    "info": null,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "c1e95f1f06fc499a9d596bb94f0babe5",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxMainContainer",
+    "pf": "frmPlacesNearMe",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "uc356940e3a14100882baf38cc889234",
+    "wType": "UserWidgetInstance"
+}

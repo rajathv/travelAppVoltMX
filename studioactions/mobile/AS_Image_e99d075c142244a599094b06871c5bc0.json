@@ -1,0 +1,34 @@
+{
+    "AS_Image_e99d075c142244a599094b06871c5bc0": {
+        "id": "AS_Image_e99d075c142244a599094b06871c5bc0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "ha1fb5c7225a4248a1b207c945fb1e45"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__fc7bfac384054a19b99dcece99686507",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Form1",
+            "formKUID": "gdeebf94666c42d8a606d9007eb56be3",
+            "projectName": "travelApp",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

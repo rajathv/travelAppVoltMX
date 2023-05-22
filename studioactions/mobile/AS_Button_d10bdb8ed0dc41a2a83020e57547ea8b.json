@@ -1,0 +1,29 @@
+{
+    "AS_Button_d10bdb8ed0dc41a2a83020e57547ea8b": {
+        "id": "AS_Button_d10bdb8ed0dc41a2a83020e57547ea8b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyfrmGetStartedTwo",
+            "type": "forms",
+            "platform": null,
+            "KUID": "i45a15dbb3374bd7a0456c4238527512"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_j0cdd2cd320b406e9c0be43d75cbd19f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Form1",
+            "formKUID": "gdeebf94666c42d8a606d9007eb56be3",
+            "projectName": "travelApp",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}
